@@ -27,7 +27,7 @@ Pelita is Smart Waste Management Application as a solution to educate people on 
 |Mobile Development|[Github](https://github.com/PelitaApp/bangkit-mobile-development)|
 
 # Service Architecture
-![Service_Architecture]()
+![Flow_GCP](https://github.com/PelitaApp/bangkit-capstone-project/assets/77198942/9f9758eb-829e-4978-ba74-73f547ab08ab)
 
 # License
 -

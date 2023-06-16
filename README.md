@@ -1,3 +1,4 @@
+![Frame 51178](https://github.com/PelitaApp/bangkit-capstone-project/assets/77198942/d8b77376-7d97-4781-8f3c-7ebf5ce2f29e)
 ![Screenshot 2023-06-12 085528](https://github.com/PelitaApp/bangkit-capstone-project/assets/77198942/c213a984-9f86-4d33-88dd-fee948df7ad7)
 
 # bangkit-capstone-project

@@ -15,8 +15,8 @@ Pelita is Smart Waste Management Application as a solution to educate people on 
 |Heru Dwi Primanata Situmorang|M350DKX4333|Machine Learning|Machine Learning Engineer, Designer|[LinkedIn](https://www.linkedin.com/in/herusitumorang) or [Github](https://github.com/myhero216)|
 |I Dewa Agung Adwitya Prawangsa|C368DSX4913|Cloud Computing|DevOps Engineer|[LinkedIn](https://www.linkedin.com/in/prawangsa/) or [Github](https://github.com/Hanabihyug)|
 |Fauzan Fashihul Lisan|C042DSX0618|Cloud Computing|DevOps Engineer|[LinkedIn](https://www.linkedin.com/in/fauzanfl/) or [Github](https://github.com/FauzanFL)|
-|Aditya Rizkiawan Nugraha|A042DSX2453|Mobile Development|Android Mobile Developer|[LinkedIn](https://www.linkedin.com/in/aditya-rizkiawan-nugraha-84511a222/) or [Github](https://github.com/adityarizn31)|
-|Jefri Okto Rivaldo Sinaga|A172DSX2440|Mobile Development|Android Mobile Developer|[LinkedIn](https://www.linkedin.com/in/jefriorsinaga/) or [Github](https://github.com/kuy71kuy)|
+|Aditya Rizkiawan Nugraha|A042DSX2453|Mobile Development|Android Mobile Developer, Designer|[LinkedIn](https://www.linkedin.com/in/aditya-rizkiawan-nugraha-84511a222/) or [Github](https://github.com/adityarizn31)|
+|Jefri Okto Rivaldo Sinaga|A172DSX2440|Mobile Development|Android Mobile Developer, Designer|[LinkedIn](https://www.linkedin.com/in/jefriorsinaga/) or [Github](https://github.com/kuy71kuy)|
 
 # Repositories
 

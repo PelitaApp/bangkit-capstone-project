@@ -30,6 +30,6 @@ Pelita is Smart Waste Management Application as a solution to educate people on 
 ![Flow_GCP](https://github.com/PelitaApp/bangkit-capstone-project/assets/77198942/9f9758eb-829e-4978-ba74-73f547ab08ab)
 
 # License
--
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right"> Stay positive and always remember that every day is a new opportunity! <br> C23-PS389 Teams </p>
